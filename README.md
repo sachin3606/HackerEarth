@@ -1,2 +1,2 @@
-# HackerEarth
-**Solution to HackerEarth Problems in Java**
+# # HackerEarth #
+**Solutions to HackerEarth's Problems in Java**
